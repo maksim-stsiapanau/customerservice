@@ -1,0 +1,25 @@
+#IDEA files
+**/.idea/*
+**/*.iml
+
+#Gradle
+**/.gradle/
+
+#Log files
+*.log
+
+# Compiled class files
+*.class
+
+#Build files
+**/build
+
+# Files
+*.jar
+!gradle-wrapper.jar
+*.rar
+*.zip
+
+#Virtual machine crash logs
+hs_err_pid*
+
